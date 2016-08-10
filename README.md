@@ -1,4 +1,4 @@
-[the horns!][1]
+![the horns!][1]
 
 
 metal-horns-fb-like
